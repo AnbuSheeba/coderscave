@@ -32,7 +32,6 @@ nav{
 
 .logo{
     width: 140px;
-
 }
 
 nav ul li{
@@ -136,7 +135,8 @@ nav ul li a:hover::after{
 .tab-contents.active-tab{
     display: block;
 }
-<!----------certifications----------->
+
+/*----------certifications-----------*/
 
 #certifications{
     padding: 30px 0;
@@ -252,7 +252,9 @@ nav ul li a:hover::after{
     background: #ff004f;
 
 }
+
 /*--------------contact-------------*/
+
 .contact-left{
     flex-basis: 35%;
 }
